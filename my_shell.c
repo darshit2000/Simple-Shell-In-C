@@ -21,7 +21,7 @@ int noOfProcesses = 0;
 */
 char **tokenize(char *line)
 {
-	noOfTokens = 0;
+	noOfTokens = 0; 
 	// **tokens = string of tokens   |   tokenNo 
 	char **tokens = (char **)malloc(MAX_NUM_TOKENS * sizeof(char *));
 
