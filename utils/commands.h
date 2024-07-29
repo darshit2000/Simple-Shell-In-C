@@ -7,7 +7,7 @@ void executePipedCommands(char **tokens);
 void exitFunction(char **tokens);
 void welcomeScreen();
 void printPrompt();
-
+        
 // Checks if a given directory path is valid.
 int isValidDirectory(char *dirName) {
 	struct stat stats;
