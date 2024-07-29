@@ -24,6 +24,7 @@ Source Code Structure
 
 Compilation and Usage
 --------
+Recommended operating system for running this program is Ubuntu.
 
 1. To compile and run the program, execute the following in the directory that contains the my_shell.c file:
 ```
