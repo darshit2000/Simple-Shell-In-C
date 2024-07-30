@@ -1,4 +1,4 @@
-Simple Cell in C
+Simple Shell in C
 ==============
 
 Simple and thoroughly commented shell written in C. Created by Darshit Gandhi as an University exercise.
