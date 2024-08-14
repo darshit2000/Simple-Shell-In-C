@@ -56,9 +56,9 @@ make
 5. Perform I/O Redirection:
    
     - Overwrite a file with ">" 
-    ```
-    echo "Hello World" > test.txt
-    ```
+       ```
+       echo "Hello World" > test.txt
+       ```
     - Append to a file with ">>"
       ```
       echo "Hello" >> test.txt
